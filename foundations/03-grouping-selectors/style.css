@@ -1,0 +1,14 @@
+.fancy, .simple {
+  font-size: 28px;
+  font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.fancy {
+  background-color: #000000;
+  color: #ffff;
+  font-weight: bold;
+}
+
+.simple {
+  background-color: #ffff00;
+}
